@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "5esWMoiA66rPtL/k1d2bN/X60F0rzVoT3IsHbVxwc9c=",
+  "Source": "ProductFeedback",
+  "BasePath": "_content/ProductFeedback",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductFeedback\\wwwroot",
+      "Source": "ProductFeedback",
+      "ContentRoot": "C:\\Users\\kadir\\Desktop\\ProductFeedback\\wwwroot\\",
+      "BasePath": "_content/ProductFeedback",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kadir\\Desktop\\ProductFeedback\\wwwroot\\uploads\\83a72708-74a2-4656-9319-2ab5cf116f4c.jpg",
+      "SourceId": "ProductFeedback",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kadir\\Desktop\\ProductFeedback\\wwwroot\\",
+      "BasePath": "_content/ProductFeedback",
+      "RelativePath": "uploads/83a72708-74a2-4656-9319-2ab5cf116f4c.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\83a72708-74a2-4656-9319-2ab5cf116f4c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kadir\\Desktop\\ProductFeedback\\wwwroot\\uploads\\be35d200-ee45-4187-a175-3c76f1dd7a57.jpg",
+      "SourceId": "ProductFeedback",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kadir\\Desktop\\ProductFeedback\\wwwroot\\",
+      "BasePath": "_content/ProductFeedback",
+      "RelativePath": "uploads/be35d200-ee45-4187-a175-3c76f1dd7a57.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\be35d200-ee45-4187-a175-3c76f1dd7a57.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kadir\\Desktop\\ProductFeedback\\wwwroot\\uploads\\d0718448-6d1e-4650-a05c-34b06393b237.png",
+      "SourceId": "ProductFeedback",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kadir\\Desktop\\ProductFeedback\\wwwroot\\",
+      "BasePath": "_content/ProductFeedback",
+      "RelativePath": "uploads/d0718448-6d1e-4650-a05c-34b06393b237.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d0718448-6d1e-4650-a05c-34b06393b237.png"
+    }
+  ]
+}
